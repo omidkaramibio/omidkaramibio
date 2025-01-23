@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm omidkarami</h1>
-<h3 align="center">ai and robotic researcher</h3>
+<h3 align="center">ai and bioinformatics researcher</h3>
 
 - 🔭 I’m currently working on [math for ML](https://github.com/omidkaramibio/Math-for-ML)
 
-- 🌱 I’m currently learning **deep learning and robotic**
+- 🌱 I’m currently learning **deep learning and bioinformatics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omidkaramibio](https://github.com/omidkaramibio)
 
