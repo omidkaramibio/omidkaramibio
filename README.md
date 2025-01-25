@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [math for ML](https://github.com/omidkaramibio/Math-for-ML)
 
-- 🌱 I’m currently learning **deep learning and bioinformatics**
+- 🌱 I’m currently learning **machine learning and bioinformatics professional**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omidkaramibio](https://github.com/omidkaramibio)
 
