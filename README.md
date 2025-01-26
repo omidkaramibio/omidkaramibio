@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [math for ML](https://github.com/omidkaramibio/Math-for-ML)
 
-- 🌱 I’m currently learning **machine learning and bioinformatics professional**
+- 🌱 I’m currently learning **machine learning pro and mathematics **
 
 - 👨‍💻 All of my projects are available at [https://github.com/omidkaramibio](https://github.com/omidkaramibio)
 
 - 📝 I regularly write articles on [omidkaramibio.github.io](omidkaramibio.github.io)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python and math **
 
 - 📫 How to reach me **omidkaramibio@gmail.com**
 
