@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm omidkarami</h1>
-<h3 align="center">ai and bioinformatics researcher</h3>
+<h3 align="center"machine learning and mathematics  researcher and computer engineering student</h3>
 
 - 🔭 I’m currently working on [math for ML](https://github.com/omidkaramibio/Math-for-ML)
 
-- 🌱 I’m currently learning **machine learning pro and mathematics **
+- 🌱 I’m currently learning **machine learning pro and mathematics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omidkaramibio](https://github.com/omidkaramibio)
 
 - 📝 I regularly write articles on [omidkaramibio.github.io](omidkaramibio.github.io)
 
-- 💬 Ask me about **python and math **
+- 💬 Ask me about **python and math**
 
 - 📫 How to reach me **omidkaramibio@gmail.com**
 
